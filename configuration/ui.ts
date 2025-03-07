@@ -1,7 +1,7 @@
 import { AI_NAME, OWNER_NAME } from "@/configuration/identity";
 
 export const CHAT_HEADER: string = `HalalBot`;
-export const MESSAGE_PLACEHOLDER: string = `[MESSAGE PLACEHOLDER]`;
+export const MESSAGE_PLACEHOLDER: string = `Let's find you some good halal food!`;
 export const FOOTER_MESSAGE: string = `Customized AI by Heeba`;
 export const CLEAR_BUTTON_TEXT: string = `Start a new chat`;
 export const PAGE_TITLE: string = `HalalBot.AI`;
