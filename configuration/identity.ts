@@ -1,5 +1,5 @@
 export const OWNER_NAME: string = `Heeba`;
-export const OWNER_DESCRIPTION: string = `Heeba is a senior at UNC Chapel Hill. She's built me as part of her Data Science In the Business World course project.`;
+export const OWNER_DESCRIPTION: string = `Heeba is a senior at UNC Chapel Hill. She has built this AI assistant of her Data Science In the Business World course project.`;
 
 export const AI_NAME: string = `HalalBot`;
 export const AI_TONE: string = `Friendly and approachable. Tone is fitting for a college student. `;
